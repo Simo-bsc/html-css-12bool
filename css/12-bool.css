@@ -21,7 +21,7 @@
     max-width: calc((100% /12) * 1);
 }
 .col-2{
-    width: calc((200% /22) * 2);
+    width: calc((100% /22) * 2);
     max-width: calc((100% /12) * 2);
 }
 .col-3{
